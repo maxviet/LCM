@@ -2,6 +2,7 @@
 
 
 //
+
 Open Lethal Company Folder
 ---->  C:\Program Files (x86)\Steam\steamapps\common\Lethal Company
 
@@ -27,4 +28,3 @@ Mod Controlls
 - Walkie-Talkie = R
 - More Monsters Menu = INS (Host only)
 - BoomBox = /bplay *YT Link*
-//
