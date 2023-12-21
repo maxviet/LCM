@@ -16,8 +16,8 @@ Open BepinEx Folder
 ---->  C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx
 
 Install Mods
-- either replace existing Plugins Folder with the one you downloaded
-- or add everything from new Plugins Folder to the existing one
+- either replace existing plugins Folder with the one you downloaded
+- or add everything from new plugins Folder to the existing one
 - add CustomSounds, HDLethalCompany, MoreCompanyCosmetics, MoreEmotes, moresuits to the Plugins Folder
 - add or replace the config Folder
 
