@@ -29,4 +29,19 @@ Mod Controlls
 - More Monsters Menu = INS (Host only)
 - BoomBox = /bplay *YT Link*
 
+--Structur--
+
+Lethal Company 📁
+└── BepInEx 📂
+    ├── plugins 📂
+    │   ├── 🗃️ DLL etc.
+    │   ├── moresuits 📂
+    │   ├── MoreEmotes 📂
+    │   ├── MoreCompanyCosmetics 📂
+    │   ├── HDLethalCompany 📂
+    │   └── CustomSounds 📂
+    ├── config 📂
+    └── patcher 📂
+
+
 //
