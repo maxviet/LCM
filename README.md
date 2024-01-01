@@ -3,7 +3,7 @@
 ## 🚀 Initial Setup
 
 1. **Open Lethal Company Folder** 📁  
-   Navigate to your Lethal Company installation directory, typically located at:
+   Navigate to your Lethal Company installation directory, typically located at:                        
   `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`
 
 3. **Install BepinEx** 🔧  
