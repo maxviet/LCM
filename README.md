@@ -31,17 +31,17 @@ Mod Controlls
 
 --Structur--
 
-Lethal Company 📁                                                                                                                                                              
-└─ BepInEx 📂                                                                                                                                                                  
-   ├─ plugins 📂                                                                                                                                                              
-   │  ├─ 🗃️ DLL etc.                                                                                                                                                           
-   │  ├─ moresuits 📂
-   │  ├─ MoreEmotes 📂                                                                                                                                                        
-   │  ├─ MoreCompanyCosmetics 📂                                                                                                                                              
-   │  ├─ HDLethalCompany 📂                                                                                                                                                    
-   │  └─ CustomSounds 📂                                                                                                                                                       
-   ├─ config 📂                                                                                                                                                                
-   └─ patcher 📂                                                                                                                                                               
+Lethal Company 📁                                                                                                                                                                                                                                   
+└─ BepInEx 📂                                                                                                                                                                                                                                       
+   ├─ plugins 📂                                                                                                                                                                                                                                    
+   │  ├─ 🗃️ DLL etc.                                                                                                                                                                                                                             
+   │  ├─ moresuits 📂                                                                                                                                                                                                                              
+   │  ├─ MoreEmotes 📂                                                                                                                                                                                                                             
+   │  ├─ MoreCompanyCosmetics 📂                                                                                                                                                                                                                   
+   │  ├─ HDLethalCompany 📂                                                                                                                                                                                                                         
+   │  └─ CustomSounds 📂                                                                                                                                                                                                                            
+   ├─ config 📂                                                                                                                                                                                                                                     
+   └─ patcher 📂                                                                                                                                                                                                                                    
 
 
 //
