@@ -31,16 +31,16 @@ Mod Controlls
 
 --Structur--
 
-Lethal Company 📁
-└── BepInEx 📂
-    ├── plugins 📂
-    │   ├── 🗃️ DLL etc.
-    │   ├── moresuits 📂
-    │   ├── MoreEmotes 📂
-    │   ├── MoreCompanyCosmetics 📂
-    │   ├── HDLethalCompany 📂
-    │   └── CustomSounds 📂
-    ├── config 📂
-    └── patcher 📂
+Lethal Company 📁  
+└── BepInEx 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;├── plugins 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── 🗃️ DLL etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── moresuits 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── MoreEmotes 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── MoreCompanyCosmetics 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── HDLethalCompany 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── CustomSounds 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;├── config 📂  
+&nbsp;&nbsp;&nbsp;&nbsp;└── patcher 📂
 
 //
