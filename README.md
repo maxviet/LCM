@@ -4,7 +4,7 @@
 
 1. **Open Lethal Company Folder** 📁  
    Navigate to your Lethal Company installation directory, typically located at:
-   - #### C:\Program Files (x86)\Steam\steamapps\common\Lethal Company
+  `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`
 
 3. **Install BepinEx** 🔧  
 - Download BepinEx.
@@ -17,7 +17,7 @@
 
 4. **Open BepinEx Folder** 📂  
 You will find the BepinEx folder in the Lethal Company directory:
-- C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepinEx
+`C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepinEx`
 
 
 ## 🛠️ Installing Mods
