@@ -1,35 +1,47 @@
-# LCM
+# 🎮 Lethal Company Mod Installation Guide
+
+## 🚀 Initial Setup
+
+1. **Open Lethal Company Folder** 📁  
+   Navigate to your Lethal Company installation directory, typically located at:
+   - #### C:\Program Files (x86)\Steam\steamapps\common\Lethal Company
+
+3. **Install BepinEx** 🔧  
+- Download BepinEx.
+- Extract and open `BepinEx_x64` 📦.
+- Copy all contents into the Lethal Company folder 📂.
+
+3. **Run the Game** 🎲  
+- Start the game to allow BepinEx to generate necessary files 🗂️.
+- Close the game after startup 🛑.
+
+4. **Open BepinEx Folder** 📂  
+You will find the BepinEx folder in the Lethal Company directory:
+- C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepinEx
 
 
-//
+## 🛠️ Installing Mods
 
-Open Lethal Company Folder
----->  C:\Program Files (x86)\Steam\steamapps\common\Lethal Company
+1. **Add Plugins** 🧩  
+- You may either replace the existing `plugins` folder or add the contents of the new `plugins` folder to the existing one.
+- Add `CustomSounds` 🔊, `HDLethalCompany` 🎮, `MoreCompanyCosmetics` 💄, `MoreEmotes` 😃, and `moresuits` 👔 to the `plugins` folder.
 
-Install BepinEx
-- Open BepinEx_x64
-- Add everything inside to your Lethal Company Folder
-- Start Game
-- Close Game
+2. **Configure Mods** ⚙️  
+- Add or replace the `config` folder as needed.
 
-Open BepinEx Folder
----->  C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx
+## 🕹️ Mod Controls
 
-Install Mods
-- either replace existing plugins Folder with the one you downloaded
-- or add everything from new plugins Folder to the existing one
-- add CustomSounds, HDLethalCompany, MoreCompanyCosmetics, MoreEmotes, moresuits to the Plugins Folder
-- add or replace the config Folder
+Here are the default controls for the mods:
 
-Mod Controlls
-- Sync = F11
-- Emotes = V
-- Flashlight = F
-- Walkie-Talkie = R
-- More Monsters Menu = INS (Host only)
-- BoomBox = /bplay *YT Link*
+- **Sync**: `F11` 🔄
+- **Emotes**: `V` 😂
+- **Flashlight**: `F` 🔦
+- **Walkie-Talkie**: `R` 📞
+- **More Monsters Menu**: `INS` (Host only) 👾
+- **BoomBox**: `/bplay` followed by a YouTube link 🎵
 
---Structur--
+
+## -- Structur -- 
 
 Lethal Company 📁                                                                                                                                                                                                                                   
 └─ BepInEx 📂                                                                                                                                                                                                                                       
