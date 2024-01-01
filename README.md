@@ -43,5 +43,4 @@ Lethal Company 📁
     ├── config 📂
     └── patcher 📂
 
-
 //
